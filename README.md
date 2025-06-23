@@ -20,14 +20,14 @@ Each notebook in this repo demonstrates how to extract insights, create dashboar
 
 ### 1. **Global Deforestation Visualization Dashboard**
 - **Description**: An interactive dashboard visualizing forest loss using satellite data from Global Forest Watch and NASA.
-- **Tech Stack**: Plotly, Folium, Geopandas, Streamlit
+- **Tech Stack**: Plotly, Streamlit
 - **Highlights**: Choropleth maps, time sliders, country-level comparisons
 
 ---
 
 ### 2. **Global Financial Inequality Trends Explorer**
 - **Description**: Exploratory visual analysis of financial inequality using World Bank and OECD datasets.
-- **Tech Stack**: Seaborn, Plotly, Streamlit
+- **Tech Stack**: Seaborn, Plotly
 - **Highlights**: Gini Index trends, income deciles, interactive line/bar charts
 
 ---
@@ -41,14 +41,14 @@ Each notebook in this repo demonstrates how to extract insights, create dashboar
 
 ### 4. **COVID-19 Variant Spread Analysis**
 - **Description**: Heatmap and trend analysis of COVID-19 variant spread across regions and time.
-- **Tech Stack**: Altair, Plotly, Pandas
+- **Tech Stack**: Plotly, Pandas
 - **Highlights**: Animated heatmaps, variant prevalence timelines, log-scale comparisons
 
 ---
 
 ### 5. **Social Media Influencer Trend Analysis**
 - **Description**: Analysis of influencer performance metrics (likes, views, followers) with trend forecasting and engagement modeling.
-- **Tech Stack**: Seaborn, Statsmodels, Prophet (optional)
+- **Tech Stack**: Seaborn
 - **Highlights**: Time series decomposition, engagement scatter plots, growth analysis
 
 ---
